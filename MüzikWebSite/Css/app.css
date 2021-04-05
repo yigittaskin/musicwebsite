@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(#5155A6, #66B1F2, #F2C49B);
+    font-family: 'Open Sans', sans-serif !important;
+}
+.media-img img{
+    width: 150px;
+    height: 150px;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.tanıtım-img img{
+    width: 100px;
+    height: 100px;
+}
+.cihazlar img{
+    width: 300px;
+}
+.bg-header{
+    background-color: #00000099;
+}
+.bg-gradient{
+    background: linear-gradient(#5155A6, #66B1F2, #F2C49B);
+}
+.pt-6{
+    padding-top: 200px;
+}
+.m-header{
+    margin-top: -72px;
+}
+.header-btn-hover{
+    border-radius: 20px;
+}
